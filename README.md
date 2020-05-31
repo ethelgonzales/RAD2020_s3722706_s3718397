@@ -1,24 +1,19 @@
-# README
+Name(s) & student number(s) of the development team
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ethel Gonzales s3722706 and Paolo Walde s3718397
 
-Things you may want to cover:
+The highest level you attempted, e.g. CR, DI or 90+
 
-* Ruby version
+CR
 
-* System dependencies
+The time sheet for each team member (e.g. logged by toggl.com)
 
-* Configuration
 
-* Database creation
+Heroku deployment URL and the last Heroku deployment log
 
-* Database initialization
+https://git.heroku.com/dry-river-40897.git
+gonzalesethelruth@gmail.com: Deployed 38f322d9
+Today at 8:02 PM · v12
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Git repository name/location.
+RAD2020_s3722706_s3718397 
