@@ -9,7 +9,7 @@ gem 'rails-controller-testing'
 gem 'will_paginate', '3.1.7'
 gem 'bootstrap-will_paginate', '1.0.0'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
-gem 'carrierwave', '1.2.2'
+gem 'carrierwave', '1.3.2'
 gem 'mini_magick', '4.7.0'
 
 ruby '2.5.7'
